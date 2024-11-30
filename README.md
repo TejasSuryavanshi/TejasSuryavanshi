@@ -1,6 +1,5 @@
 - 👋 Hi, I’m TejasSuryavanshi
-- 👀 I’m interested in MERN STACK Development
-- 🌱 I’m currently learning NEXT JS
+- 👀 I am FrontEnd Developer
 - 📫 How to reach me GMAIL:tejassuryavanshi06@gnail.com IG:tejxs-07
 
 
