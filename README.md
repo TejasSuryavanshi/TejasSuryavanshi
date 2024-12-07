@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TejasSuryavanshi
 - 👀 I am FrontEnd Developer
-- 📫 How to reach me GMAIL:tejassuryavanshi06@gnail.com IG:tejxs-07
+- 📫 How to reach me GMAIL:tejassuryavanshi06@gmail.com IG:tejxs-07
 
 
 <!---
